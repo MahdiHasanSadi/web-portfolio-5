@@ -10,31 +10,23 @@ h1
 {
     font-size: 60px;
 }
-h2
-{
-    font-size: 40px;
-}
 span
 {
-    color: tomato;
+    color: orange;
 }
 .hire-me
 {  
     text-decoration: none; 
-    background-color:rgb(247, 101, 75);
+    background-color:#f7654b;
     padding:25px 60px;
     border-radius: 10px;
     color :white;
     font-weight: 700px;
 }
-.latest
+.highlight
 {
     text-align: center;
     color: black;
-}
-.highlight
-{
-    color: orange;
 }
 .first-half
 {
@@ -47,9 +39,10 @@ span
 {
     width:100%;
 }
-.box{
+.image
+{
     width: 28%;
-    box-shadow: 10px 20px 30px rgb(228, 222, 222);
+    box-shadow: 10px 20px 30px #fffefe;
     float: left;
     background-color: white;
     border: 10% solid white;
@@ -57,20 +50,16 @@ span
     padding: 10px;
     border-radius: 10px;
 }
-.box-part{
+.mid-part
+{
     
     padding-bottom: 100px;
     height: 700px;
-    background-color: rgb(248, 248, 248);
+    background-color: rgb(253, 237, 237);
     padding-left: 150px;   
 }
-.box img{
+.image img
+{
     width: 100%;
 }
 
-section
-{
-    padding: 2% 5%;
-    padding-bottom: 100px;
-    height: 400px;
-}
